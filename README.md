@@ -1,2 +1,5 @@
 # exploratory-data-analysis-notebooks
-Exploratory Data Analysis 
+
+
+- **Spotify Top Hits Analysis**: [kaggle notebook](https://www.kaggle.com/code/shreydan/spotify-top-hits-eda)
+
